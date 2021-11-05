@@ -1,2 +1,2 @@
-<h1>Version_01</h1>
+<h1>Version_02</h1>
 <?php phpinfo(); ?>
